@@ -1,0 +1,2 @@
+# My-journey-to-Machine-Learning
+Skills in Machine Learning are necessary for high skilled data scientist. So here are several projects I realized with the reason to gain basics in ML (one project in DL), however I am on the way of education trying to improve myself all the time. Moreover, I am a scientist, so skills in ML and other fields I am improving myself are essential useful in scientific projects as well. 
